@@ -1,0 +1,20 @@
+streamlit
+opencv-contrib-python
+opencv-python
+setuptools
+openpyxl
+#dlib == download the dlib-19.24.1-cp311-cp311-win_amd64.whl in https://github.com/z-mahmud22/Dlib_Windows_Python3.x
+ipython
+torch
+tqdm
+tensorflow==2.14
+Keras
+Keras-Applications
+Keras-Preprocessing
+scikit-image
+#keras-contrib == pip install https://github.com/keras-team/keras-contrib/archive/master.zip (deprecated)
+tensorflow-addons==0.22.0
+transformers
+pandas
+watchdog
+torch
